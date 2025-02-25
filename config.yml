@@ -10,7 +10,7 @@ apiConfig:
     - name: CreateUser
       url: https://api.example.com/V1/users
       method: POST
-      description: Create a new user.
+      description: Create a new user-test.
 
   publishedEndpoints:
     - name: GetProduct
