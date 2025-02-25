@@ -1,0 +1,25 @@
+consumer_details: email: "
+apiConfig: consumedEndpoints:
+- name: GetUser
+url: https://api.example.com/
+V1/users/{id}.
+method: GET
+description: Retrieve user
+information by user ID.
+- name: CreateUser
+url: https://api.example.com/
+vl/users
+method: POST
+description: Create a new
+user.
+publishedEndpoints:
+- name: GetProduct
+url: https://api.example.com/
+V1/products/{id} method: GET
+description: Retrieve product
+information by product ID.
+- name: CreateProduct url: https://api.example.com/
+V1/products
+method: POST
+description: Create a new
+product.
